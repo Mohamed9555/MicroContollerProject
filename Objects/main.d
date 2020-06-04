@@ -1,0 +1,9 @@
+.\objects\main.o: main.c
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\main.o: keypad.h
+.\objects\main.o: std_types.h
+.\objects\main.o: Common_macros.h
+.\objects\main.o: Microcontroller.h
+.\objects\main.o: C:/Keil_v5/EE319KwareSpring2020/inc/tm4c123gh6pm.h
